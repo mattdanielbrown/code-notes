@@ -37,7 +37,7 @@
     "fs-extra": "^9.0.0",
     "nedb": "^1.8.0",
     "source-sans-pro": "^3.6.0",
-    "vue": "^2.6.11",
+    "vue": "^3.5.18",
     "vue-clipboard2": "^0.3.1",
     "vue-router": "^3.3.2",
     "vue-select": "^3.10.2",
